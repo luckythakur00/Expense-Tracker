@@ -1,0 +1,3 @@
+# Expense Tracker
+
+This Expense Tracker is built with React.js and styled using Tailwind CSS for a sleek, responsive design. This intuitive application leverages the Context API for state management, ensuring smooth user experience as you manage your transactions. Real-time alerts are powered by ToastContainer, and visualize your spending effortlessly with dynamic pie charts from React ApexCharts. Effortlessly track and organize your expenses with a clean, user-friendly interface that adapts to your needs.
